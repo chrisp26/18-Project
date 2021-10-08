@@ -1,0 +1,66 @@
+##############
+Scrape Data
+##############
+- Get cars data and store in Mongo DB
+- Save script as a Python script and incorporate all the data cleanup into the scraping for-loop
+- Use functions to do this
+
+
+##############
+Get Census Data
+##############
+- See what values are available
+- See what suburbs/regions are available
+- Store data in Mongo DB
+
+##############
+Generate Vehicle Suburb Data
+##############
+- Avg vehicle price
+- Avg vehicle age
+- Median vehicle price
+- # vehicles for sale
+
+- Store this in Mongo DB Collection
+
+
+##############
+Create suburb Collection
+##############
+- Suburb name
+- State
+- State abbreviation
+- Postcode
+- Locality
+- Latitude
+- Longitude
+
+##############
+Create JSON with all relevant information combined
+##############
+- Vehicle suburb data
+- Cencus suburb data
+- Suburb data
+
+
+##############
+Create HTML file
+##############
+- Head
+- Body
+- Footer
+
+##############
+Creat javascript file
+##############
+- Create graph in Plotly or D3
+- Create dynamic axis
+
+##############
+Create CSS file
+##############
+
+
+##############
+Publish through Github Pages
+##############
