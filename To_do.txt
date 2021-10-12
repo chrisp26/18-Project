@@ -1,8 +1,8 @@
 ##############
 Scrape Data
 ##############
-- Get cars data and store in Mongo DB
-- Save script as a Python script and incorporate all the data cleanup into the scraping for-loop
+- DONE Get cars data and store in Mongo DB 
+- DONE Save script as a Python script and incorporate all the data cleanup into the scraping for-loop
 - Use functions to do this
 
 
@@ -64,3 +64,16 @@ Create CSS file
 ##############
 Publish through Github Pages
 ##############
+
+
+
+-------------------------------
+QUESTIONS
+-------------------------------
+
+1. In scrape_store_AU_vehicle_listing_data how do I create functions to use in the for loop?
+2. What is the best format to store 'statistics' data?
+
+
+Store these SQL - dataframe Leftjoin 
+- State, Suburb, Avg_price, Med_income, Veh_age, Veh_kms
